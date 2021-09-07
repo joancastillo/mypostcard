@@ -1,0 +1,58 @@
+body {
+background: white;}
+
+.postcard{
+    width: 400px;
+    height: 300px;
+    margin:auto;
+}
+
+img{
+    height:50px;
+    width: 50px;
+    float: right;
+}
+
+h1{
+    width: 50%;
+    float:left;
+}
+
+.header{
+    overflow: hidden;
+}
+
+.body-left{
+    float: left;
+    width: 50%;
+}
+
+.body-right{
+    float: right;
+    width: 50%;
+   
+}
+
+.body-right input{
+    size: 20px;
+    border: none;
+    border-bottom: grey;
+}
+
+.input-buttom{
+    border: black;
+    
+}
+
+.input-buttom:hover{
+    color:blue;
+}
+
+.body{
+    overflow: hidden;
+}
+
+.input-buttom{
+    border-bottom: 1px solid grey;
+    text-align: center;
+}
